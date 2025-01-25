@@ -1,4 +1,4 @@
-# Pausing Documents
+ # Pausing Documents
 
 There are times for documents (notably those of iframes) to be busy, and times when the work they're doing is wasteful. When they're wasteful, document activity should be paused so that it doesn't bother the user or waste resources. With the PauseDocument API, web developers can pause (and later unpause) a frame's loading, rendering, and javascript execution.
 
